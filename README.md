@@ -22,4 +22,11 @@ This Power BI dashboard provides insights into supply chain operations, includin
 
 ## 📸 Dashboard Preview  
 ![image](https://github.com/user-attachments/assets/407fb599-d583-4ab4-afe1-f784d784aab6)
+
+![image](https://github.com/user-attachments/assets/2a43dd96-fd63-4b3e-937c-b03f915ab80f)
+
+![image](https://github.com/user-attachments/assets/d28a4318-6c85-4538-b13e-1e30feeac882)
+
+
+
  
